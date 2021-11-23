@@ -1,0 +1,8 @@
+guru\springframework\sfgdi\services\GreetingService.class
+guru\springframework\sfgdi\services\SetterInjectedGreetingService.class
+guru\springframework\sfgdi\controllers\MyController.class
+guru\springframework\sfgdi\controllers\SetterInjectedController.class
+guru\springframework\sfgdi\services\PetService.class
+guru\springframework\sfgdi\SfgDiApplication.class
+guru\springframework\sfgdi\services\CatPetService.class
+guru\springframework\sfgdi\services\DogPetService.class
