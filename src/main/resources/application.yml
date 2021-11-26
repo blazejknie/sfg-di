@@ -1,7 +1,19 @@
 spring:
   profiles:
-    active: cat, ES, dev
+    active:
+      - cat
+      - ES
+      - prod
 blazej:
   username: YmlUserName
   password: YmlPassword
   jdbcUrl: YmlUrl
+
+---
+spring:
+  profiles: prod
+
+blazej:
+  username: YmlProdUserName
+  password: YmlProdPassword
+  jdbcUrl: YmlProdUrl
